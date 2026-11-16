@@ -59,9 +59,6 @@ Start a **new game** for the full experience: some changes depend on your progre
 | Key | Action |
 |---|---|
 | F8 | Turn SuperStar on / off (no star if it is off when the credits roll) |
-| F7 | Enemy diagnostic (written to `ue4ss\Mods\SuperstarSotM\journal.log`) |
-| F6 | Spawn a double of the nearest enemy |
-| F4 / F3 | Modding tools: position report / reload `deplacements.txt` |
 
 ### Credits
 
@@ -126,9 +123,6 @@ Commence une **nouvelle partie** pour profiter de tout : certains changements d�
 | Touche | Action |
 |---|---|
 | F8 | Active / désactive SuperStar (pas d'étoile s'il est coupé au générique) |
-| F7 | Diagnostic des ennemis (dans `ue4ss\Mods\SuperstarSotM\journal.log`) |
-| F6 | Fait apparaître un double de l'ennemi le plus proche |
-| F4 / F3 | Outils de modding : relevé de position / relecture de `deplacements.txt` |
 
 ### Crédits
 
